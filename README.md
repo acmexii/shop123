@@ -5,7 +5,7 @@ www.msaez.io/#/35618409/storming/254b488e26a48842af45dd70e653af96
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
-```
+``` 
 cd kafka
 docker-compose up
 ```
